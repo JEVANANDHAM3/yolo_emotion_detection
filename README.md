@@ -2,10 +2,11 @@ clone the project :
 ```git clone https://github.com/JEVANANDHAM3/yolo_emotion_detection.git```
 
 Create a python environ by following command :
+```cd yolo_emotion_detection```<br>
 ```python -m venv .venv```
 
 before running the code run the command :
-```cd yolo_emotion_detection```
+
 ```source .venv/Scripts/activate```
 
 Install the dependencies :
